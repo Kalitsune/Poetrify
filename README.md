@@ -10,8 +10,10 @@ Get the latest release [here](https://github.com/Kalitsune/quotify/releases) (be
 
 
 ## Development
-Quotify is written in [Go](https://golang.org/), be sure to have it installed on your system. <br/>
-`Note: go will automatically install the dependencies.`
+### Requirements
+- Quotify is written in [Go](https://golang.org/), be sure to have it installed on your system. <br/>
+- Be sure to meet the robotgo library [requirements](https://github.com/go-vgo/robotgo#requirements)
+- Note: go will automatically install the dependencies.
 ### Run
 ```
 go run main.go
